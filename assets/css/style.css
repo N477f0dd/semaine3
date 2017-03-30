@@ -1,0 +1,27 @@
+.prez {
+  font-family: Impact;
+  color: #cc0000;
+  text-align: center;
+}
+
+header{
+  background-color: black;
+}
+
+h3{
+  color: #cc0000;
+}
+
+body{
+  background-color: #d4b66a;
+}
+
+body ul{
+  list-style-type: circle;
+  font-style: italic;
+}
+
+footer {
+  list-style-type: square;
+  padding:5px;
+}
